@@ -1,7 +1,6 @@
 ## Sobre o Projeto
 
 <table>
-
     <tr>
         <td>
        	 	<h2>
@@ -15,7 +14,6 @@
 # API-Marvel
 
 <table>
-
     <tr>
         <td>
        	 	<h2>
@@ -27,7 +25,4 @@
        	 	</h2>
         </td>
     </tr>
-
 </table>
-
-
