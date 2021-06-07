@@ -7,7 +7,7 @@
         O site consiste em retonar o nome de alguns dos personagens da Marvel e algumas de suas historias.
       </h2>
       <h5>
-        responsivo
+        observações: responsivo
       </h5>
     </td>
   </tr>
